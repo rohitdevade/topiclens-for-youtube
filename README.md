@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-strict-3178C6" alt="TypeScript strict">
 </p>
 
-TopicLens is a Chrome Manifest V3 extension that filters YouTube continuously—including cards loaded during infinite scrolling and in-page navigation—using two topic lists:
+TopicLens is a Chrome Manifest V3 extension that filters YouTube continuously including cards loaded during infinite scrolling and in-page navigation—using two topic lists:
 
 - **Hide** removes related videos.
 - **Show only** displays videos related to at least one listed topic.

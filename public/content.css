@@ -1,0 +1,3 @@
+[data-topiclens="hidden"]{display:none!important}
+[data-topiclens="pending"]{visibility:hidden!important;pointer-events:none!important;animation:topiclens-release 0s 7s forwards!important}
+@keyframes topiclens-release{to{visibility:visible;pointer-events:auto}}
